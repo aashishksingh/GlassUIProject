@@ -5,4 +5,4 @@ The repo includes the code artifacts for a simple layout for a Glass effect UI.
 
 Below is a sample:
 
-![Sample View](./images/View_Sample.png?raw=true "Title")
+![Sample View](https://github.com/aashishksingh/GlassUIProject/blob/master/images/View_Sample.png?raw=true)
