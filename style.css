@@ -97,7 +97,7 @@ main {
 }
 
 .link img {
-  backgound: linear-gradient(to right, #ffbf0f, #ff7c4e);
+  background: linear-gradient(to right, #ffbf0f, #ff7c4e);
 }
 .pro {
   background: linear-gradient(to right top, #ffbf0f, #ff7c4e);
